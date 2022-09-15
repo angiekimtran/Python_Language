@@ -1,4 +1,4 @@
-# simple calculator with def and return function
+# simple calculator with def and return functions
 
 def main():
     x = int(input("What's x?"))
