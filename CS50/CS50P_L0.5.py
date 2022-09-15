@@ -15,7 +15,7 @@ def hello(to):
 name = input("What's your name? ")
 hello(name)
 
-# Practice 3
+# Practice 3 - hello() with no arugment
 def hello(to="world"):
     print("Hello", to)
 
