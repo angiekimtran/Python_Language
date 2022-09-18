@@ -1,6 +1,5 @@
 # program implementing the modulo operation
 
-
 # Program 1 - determining whether a number is an even or odd number
 x = int(input("What's x?"))
 
