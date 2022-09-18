@@ -1,6 +1,7 @@
-# programs using a match case statement
+# this file contain practice programs that uses a match case statement
+# the programs below help determine a user's Hogwarts house based on their name
 
-# Program 1
+# Program 1  
 name = input("What's your name?")
 
 if name == "Harry":
@@ -39,7 +40,7 @@ match name:
     case _:
         print("Who?")
 
-# Program 3
+# Program 4 - the simpliest way to write the program
 name = input("What's your name?")
 
 match name:
