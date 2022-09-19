@@ -1,7 +1,7 @@
 # practice program with while loop
 # while is a construct that allows a question to be asked again and again
 
-# Program 1 - prograam that prints out "meow" three times
+# Program 1 - program that prints out "meow" three times
 i = 3
 while i != 0:
     print("meow")
