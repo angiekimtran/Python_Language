@@ -25,3 +25,5 @@ main()
 #         if n > 0:
 #              break
 #     return n
+# Although we can use a break here, return is stronger than a break
+# Return not only breaks out of a loop but also returns a value for you
