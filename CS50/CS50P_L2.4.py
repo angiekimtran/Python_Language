@@ -15,7 +15,7 @@ for student in students:
 
 
 # len function tells us the length of a list
-# Program 3 - better way to code Program 2 using len function
+# Program 3 - better way to code Program 2 using len() function
 students = ["Hermione", "Harry", "Ron"]
 
 for i in range(len(students)): # nested functions
