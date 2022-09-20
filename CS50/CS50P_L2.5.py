@@ -1,4 +1,4 @@
-# program using the dictionary data structure
+# practice program using the dictionary data structure
 # dicts or dictionaries are a data structure that allows you to associate a key with a value
 # dictionaries are like an associative array that consists of a collection of key-value pairs
 
