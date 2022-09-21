@@ -12,7 +12,7 @@ def print_square(size):
 
 main()
 
-# Program 2 - another way to code Program 4
+# Program 2 - another way to code Program 1
 def main():
     print_square(3)
 
@@ -22,7 +22,7 @@ def print_square(size):
         
 main()
 
-# Program 3 - another way to code Program 4
+# Program 3 - another way to code Program 1
 def main():
     print_square(3)
 
