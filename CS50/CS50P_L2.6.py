@@ -1,4 +1,4 @@
-# Python pattern programs with nested loops
+# Square pattern program with nested loops
 
 # Program 1 - a program that prints out a 3 x 3 square
 def main():
