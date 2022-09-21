@@ -1,34 +1,6 @@
-# Practice program with nested loops
+# Python pattern programs with nested loops
 
-# Program 1 - a program that prints out and stacks three hashes
-def main():
-    print_column(3)
-
-def print_column(height):
-    for _ in range(height):
-        print("#")
-
-main()
-
-# Program 2 - another way to code Program 1
-def main():
-    print_column(3)
-
-def print_column(height):
-    print("#\n" * height, end="")
-
-main()
-
-# Program 3 - a program that prints out a row of question marks
-def main():
-    print_row(4)
-
-def print_row(width):
-    print("?" * width, end="\n")
-
-main()
-
-# Program 4 - a program that prints out a 3 x 3 square
+# Program 1 - a program that prints out a 3 x 3 square
 def main():
     print_square(3)
 
@@ -40,7 +12,7 @@ def print_square(size):
 
 main()
 
-# Program 5 - another way to code Program 4
+# Program 2 - another way to code Program 4
 def main():
     print_square(3)
 
@@ -50,7 +22,7 @@ def print_square(size):
         
 main()
 
-# Program 6 - another way to code Program 4
+# Program 3 - another way to code Program 4
 def main():
     print_square(3)
 
