@@ -1,4 +1,4 @@
-# Practice program printing patterns
+# Practice with writing a program that prints out different patterns
 
 # Program 1 - a program that prints out a stack of three hashes
 def main():
