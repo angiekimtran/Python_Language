@@ -18,7 +18,7 @@ else:
 # Program 2 - better way to code Program 1
 if len(sys.argv) < 2: # Checking for errors
     sys.exit("Too few arguments") #sys.exit exits the program prematurely 
-elif len(sys.argv) > 2: # Checking for errors
+elif len(sys.argv) > 2: 
     sys.exit("Too many arguments")
 
 print("hello, my name is", sys.argv[1]) # By the time the program gets to this line, every error condition has been checked for
