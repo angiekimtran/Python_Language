@@ -1,5 +1,4 @@
-# Practice programs with command-line arguments, sys.argv, and slicing
-
+# Practice programs with command-line arguments, sys.argv, and slice function
 import sys
 
 # Program 1 - slices
