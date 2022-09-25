@@ -1,4 +1,4 @@
-# simple calculator with int, input, and nested functions
+# simple calculator with integers, input, and nested functions
 
 # Practice 1
 x = 1
