@@ -1,4 +1,4 @@
-# simple calculator with float
+# simple calculator using the float data type
 
 # Practice 4 - floating-point arithmetic and rounding function
 x = float(input("What's x? "))
