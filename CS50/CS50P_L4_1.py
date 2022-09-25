@@ -1,4 +1,4 @@
-# Practice programs with the Random Module
+# Practice programs with the random module
 
 # Program 1 - random.choice(seq)
 # In random.choice, there is a parameter called seq for sequence
