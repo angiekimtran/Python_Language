@@ -1,4 +1,4 @@
-# Practice programs with the Random Module
+# Practice programs with the random module
 
 # Program 1 - random.randint(a,b)
 # Program that randomly generates an integer between a and b inclusive
