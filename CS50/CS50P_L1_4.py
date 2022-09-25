@@ -1,4 +1,4 @@
-# program implementing the modulo operation
+# Program implementing defining a main function and the modulo operation 
 
 # Program 1 - determining whether a number is an even or odd number
 x = int(input("What's x?"))
