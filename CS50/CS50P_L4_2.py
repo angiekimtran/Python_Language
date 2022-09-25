@@ -1,4 +1,4 @@
-# Practice programs with the random module
+# Practice programs with the random module: random.randint(a,b) and random.shuffle(x)
 
 # Program 1 - random.randint(a,b)
 # Program that randomly generates an integer between a and b inclusive
