@@ -1,6 +1,6 @@
-# program comparing values with logical and relational operators
+# Program comparing values with logical and relational operators
 
-# logical operators: [and, or, not]
+# Logical operators: [and, or, not]
 
 # Program 4 with or
 x = int(input("What's x? "))
