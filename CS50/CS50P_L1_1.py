@@ -1,6 +1,6 @@
-# this program compares values using the conditional if, elif, and else
+# This program compares values using the conditional if, elif, and else
 
-# relational operators:
+# Relational operators:
 # > greater than
 # >= greater than or equal to
 # < less than
