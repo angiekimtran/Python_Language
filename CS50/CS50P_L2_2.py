@@ -1,6 +1,6 @@
-# practice prograam with the for loop
+# Practice prograam with the for loop
 
-# Program 1 - program printing "meow" out three times
+# Program 1 - prints "meow" out three times
 for i in [0, 1, 2]:
     print("meow")
     

@@ -1,6 +1,6 @@
-# a program that utilizes loops while also validating user input
+# A program that utilizes loops while also validating user input
 
-# Program 1 -asking user input then printing "meow" n amount of times
+# Program 1 -asks for user input then prints "meow" n amount of times
 while True:
     n = int(input("What's n? "))
     if n < 0:

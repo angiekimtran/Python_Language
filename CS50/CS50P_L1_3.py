@@ -1,6 +1,6 @@
-# below are different ways to code a grading system program 
+# Below are different ways to code a grading system program 
 
-# Program 1 
+# Example 1 
 score = int(input("Score: "))
 
 if score >= 90 and score <= 100:
@@ -15,7 +15,7 @@ else:
     print("Grade: F")
 
 
-# Program 2 - simpler than program 1
+# Example 2 - simpler than example 1
 if 90 <= score <= 100:
     print("Grade: A")
 elif 80 <= score < 90:
@@ -27,7 +27,7 @@ elif 60 <= score < 70:
 else:
     print("Grade: F")
 
-# Program 3 - simpler than program 1 and 2
+# Example 3 - simpler than examples 1 and 2
 if score >= 90:
     print("Grade: A")
 elif score >= 80:

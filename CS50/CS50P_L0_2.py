@@ -1,4 +1,4 @@
-# Practice program from Harvard's CS50P lecture 0 on Python function and variables
+# Part 2 on practice programs with Python functions and variables
 
 # Example 3 - prints fist name
 # Ask user for their name, remove whitespace from str, and capitalize user's name

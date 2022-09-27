@@ -1,4 +1,8 @@
+<<<<<<< HEAD:CS50/CS50P_L0.4.py
 # simple calculator utilizing the float data type
+=======
+# simple calculator using the float data type
+>>>>>>> 7d697ea661d0498098deff4c9a48111c07abcd41:CS50/CS50P_L0_4.py
 
 # Practice 4 - floating-point arithmetic and rounding function
 x = float(input("What's x? "))
