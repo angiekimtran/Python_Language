@@ -1,4 +1,4 @@
-# Practice program with custom libraries (Part 1)
+# Practice program building custom libraries (Part 1)
 
 def main():
     hello("world")
